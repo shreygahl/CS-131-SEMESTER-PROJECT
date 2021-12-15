@@ -1,0 +1,2 @@
+# CS-131-SEMESTER-PROJECT
+This presentation is based upon Googlebot  which is Google's web crawling bot, also known as a spider or web robot. It is a program or automated script browsing the Internet globally in a methodical manner to provide up-to-date data. Web crawling is where a Googlebot finds new and updated pages to be included in Google's indexing. This will really help us to promote our website ,to pull out more clients on the web pages, increase the sales  of your products and businesses. So the Googlebot can be implemented by web crawling using BFS.
